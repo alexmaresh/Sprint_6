@@ -164,3 +164,4 @@ cython_debug/
 !/tests/geckodriver.log
 !/tests/geckodriver.log
 !/tests/geckodriver.log
+!/allure_results/
